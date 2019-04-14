@@ -1,7 +1,7 @@
 
 # Build a basic Hello World
 ## References
-    * express:  https://expressjs.com/en/starter/generator.html
+* express:  https://expressjs.com/en/starter/generator.html
 
 ## Commands to create and run application
 * Create a git repository Reference: https://github.com/CODevOp/express-rest-API
